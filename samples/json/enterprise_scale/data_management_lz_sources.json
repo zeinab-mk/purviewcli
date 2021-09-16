@@ -15,19 +15,6 @@
     },
     {
         "properties": {
-            "subscriptionId": "01234567-89ab-cdef-0123-456789abcdef",
-            "parentCollection": {
-                "type": "DataSourceReference",
-                "referenceName": "Contoso-Data-Management"
-            },
-            "collection": null
-        },
-        "kind": "AzureSubscription",
-        "id": "datasources/AzureSubscription",
-        "name": "Contoso-Data-Management-AzureSubscription"
-    },
-    {
-        "properties": {
             "tenant": "01234567-89ab-cdef-0123-456789abcdef",
             "parentCollection": {
                 "type": "DataSourceReference",
